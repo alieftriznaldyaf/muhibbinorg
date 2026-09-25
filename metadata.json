@@ -1,0 +1,6 @@
+{
+  "name": "Pondok Pesantren Raudhatul Muhibbin",
+  "description": "Web profil resmi Pondok Pesantren Raudhatul Muhibbin dengan informasi lembaga, profil guru, fasilitas, galeri kegiatan santri, dan pendaftaran santri baru daring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
